@@ -1,0 +1,6 @@
+@StudentGradeCalculator_HostAddress = http://localhost:5110
+
+GET {{StudentGradeCalculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
