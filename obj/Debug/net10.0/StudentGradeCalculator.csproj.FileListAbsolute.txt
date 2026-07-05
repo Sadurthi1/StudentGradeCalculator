@@ -32,3 +32,4 @@ C:\Users\adurt\source\repos\Projects\StudentGradeCalculator\StudentGradeCalculat
 C:\Users\adurt\source\repos\Projects\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\net10.0\StudentGradeCalculator.pdb
 C:\Users\adurt\source\repos\Projects\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\net10.0\StudentGradeCalculator.genruntimeconfig.cache
 C:\Users\adurt\source\repos\Projects\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\net10.0\ref\StudentGradeCalculator.dll
+C:\Users\adurt\source\repos\Projects\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\net10.0\StudentGradeCalculator.sourcelink.json
